@@ -1,0 +1,39 @@
+Common DispatchHelper commands for Calc
+Command	Description
+.uno:Save	Save the current document
+.uno:SaveAs	Save the document with a new name
+.uno:Open	Open a document
+.uno:CloseDoc	Close the current document
+.uno:Print	Open the Print dialog
+.uno:PrintPreview	Toggle Print Preview
+.uno:Quit	Exit LibreOffice
+.uno:Copy	Copy selected content
+.uno:Cut	Cut selected content
+.uno:Paste	Paste clipboard contents
+.uno:Undo	Undo the last action
+.uno:Redo	Redo the last undone action
+.uno:SelectAll	Select all cells or content
+.uno:Find	Open the Find dialog
+.uno:SearchDialog	Open Find & Replace
+.uno:SortAscending	Sort ascending
+.uno:SortDescending	Sort descending
+.uno:DataSort	Open the Sort dialog
+.uno:InsertRows	Insert rows
+.uno:DeleteRows	Delete rows
+.uno:InsertColumns	Insert columns
+.uno:DeleteColumns	Delete columns
+.uno:MergeCells	Merge selected cells
+.uno:SplitCell	Split merged cells
+.uno:InsertChart	Insert a chart
+.uno:FormatCellDialog	Open the Format Cells dialog
+.uno:Bold	Toggle bold formatting
+.uno:Italic	Toggle italic formatting
+.uno:Underline	Toggle underline
+.uno:WrapText	Toggle text wrapping
+.uno:SetOptimalRowHeight	Set optimal row height
+.uno:SetOptimalColumnWidth	Set optimal column width
+.uno:FreezePanes	Freeze or unfreeze panes
+.uno:DataFilterAutoFilter	Toggle AutoFilter
+.uno:RecalcPivotTable	Refresh a pivot table
+.uno:Calculate	Recalculate formulas
+.uno:CalculateHard	Force a full recalculation
