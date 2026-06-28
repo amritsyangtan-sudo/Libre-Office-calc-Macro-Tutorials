@@ -12,19 +12,13 @@ Sub CreateDialogExample()
     ' - Once created, they can be loaded and displayed
     '   using a macro.
     '
-    ' Steps:
-    '   1. Create a dialog using the Dialog Editor.
-    '   2. Load the dialog library.
-    '   3. Create the dialog object.
-    '   4. Display the dialog.
-
+    ' Steps
     You must first create the dialog:
-
-Tools → Macros → Organize Dialogs
-Select My Macros → Standard
-Click New
-Name it Dialog1
-Save the dialog
+'Tools → Macros → Organize Dialogs
+'Select My Macros → Standard
+'Click New
+'Name it Dialog1
+'Save the dialog
     '-------------------------------------------------------
 
     Dim dialog As Object
