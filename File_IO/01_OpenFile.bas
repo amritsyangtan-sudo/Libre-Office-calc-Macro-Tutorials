@@ -34,3 +34,12 @@ Sub OpenFileExample()
     Close #fileNumber
 
 End Sub
+
+
+'| Mode     | Description                                |
+'| -------- | ------------------------------------------ |
+'| `Input`  | Opens a file for reading.                  |
+'| `Output` | Creates or overwrites a file for writing.  |
+'| `Append` | Opens a file and adds data to the end.     |
+'| `Binary` | Opens a file for binary data.              |
+'| `Random` | Opens a file for random-access operations. |
