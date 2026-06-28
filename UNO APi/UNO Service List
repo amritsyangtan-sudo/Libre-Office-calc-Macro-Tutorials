@@ -1,0 +1,89 @@
+Files and Folders:
+  com.sun.star.ucb.SimpleFileAccess
+  com.sun.star.ui.dialogs.FilePicker
+  com.sun.star.ui.dialogs.FolderPicker
+  com.sun.star.ucb.UniversalContentBroker
+	Open files
+	Save files
+	Copy files
+	Move files
+	Delete files
+	Browse folders
+
+Dialog Services
+  com.sun.star.awt.Toolkit
+  com.sun.star.awt.UnoControlDialog
+  com.sun.star.awt.UnoControlButton
+  com.sun.star.awt.UnoControlEdit
+  com.sun.star.awt.UnoControlListBox
+  com.sun.star.awt.UnoControlComboBox
+  com.sun.star.awt.UnoControlCheckBox
+  com.sun.star.awt.UnoControlRadioButton
+  
+Document Services
+  com.sun.star.frame.Desktop
+  com.sun.star.frame.DispatchHelper
+  com.sun.star.frame.Frame
+  com.sun.star.document.FilterFactory
+  com.sun.star.document.TypeDetection
+	Used for:
+	Open documents
+	Close documents
+	Save documents
+	Execute UI commands
+	
+Spreadsheet Services
+  com.sun.star.sheet.FunctionAccess
+  com.sun.star.sheet.SpreadsheetDocument
+  com.sun.star.sheet.Spreadsheet
+  com.sun.star.sheet.TableCharts
+  com.sun.star.sheet.DatabaseRanges
+  com.sun.star.sheet.NamedRanges
+  com.sun.star.sheet.GlobalSheetSettings
+  
+	Used for:
+	Calc functions
+	Charts
+	Named ranges
+	Database ranges
+	
+Text Services
+  com.sun.star.text.TextDocument
+  com.sun.star.text.TextCursor
+  com.sun.star.text.TextTable
+  com.sun.star.text.MailMerge
+	Used for Writer automation.
+	
+Database Services
+  com.sun.star.sdb.DatabaseContext
+  com.sun.star.sdb.RowSet
+  com.sun.star.sdbc.DriverManager
+	Used for:
+	Connect databases
+	Execute SQL
+	Read records
+	
+Utility Services
+  com.sun.star.util.PathSettings
+  com.sun.star.util.URLTransformer
+  com.sun.star.util.NumberFormatter
+  com.sun.star.util.SearchDescriptor
+  com.sun.star.util.ReplaceDescriptor
+	Used for:
+	System paths
+	URLs
+	Number formatting
+	Search & replace
+	
+
+Commonly Used Services
+com.sun.star.frame.Desktop
+com.sun.star.frame.DispatchHelper
+com.sun.star.ucb.SimpleFileAccess
+com.sun.star.ui.dialogs.FilePicker
+com.sun.star.ui.dialogs.FolderPicker
+com.sun.star.sheet.FunctionAccess
+com.sun.star.sheet.NamedRanges
+com.sun.star.util.PathSettings
+com.sun.star.awt.Toolkit
+com.sun.star.configuration.ConfigurationProvider
